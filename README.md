@@ -1,5 +1,6 @@
-# monumento
-Project under AOSSIE
+# RT Object Detection
+
+Cross platform Application using TFLite and Flutter.
 
 ## Screenshots
 
